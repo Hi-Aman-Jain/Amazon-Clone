@@ -106,9 +106,9 @@
 
 .flag {
   background-image: url("/Images/us-flag.jpg");
-  background-size: cover;
-  width: 21.6px;
-  height: 16.2px;
+  background-size: contain;
+  width: 20px;
+  height: 14.2px;
 }
 
 .lang-select {
@@ -116,7 +116,7 @@
   background-color: #0f1111;
   border: none;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 /* box 5 --------->> */
@@ -203,15 +203,17 @@ span {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  background-color: #ffe572;
-}
+  background: linear-gradient(to bottom, #5002b8,#e3e6e6, #e3e6e6, #e3e6e6, #e3e6e6, #e3e6e6, #e3e6e6); 
+} 
+/* Great aman!! keeping going 🤟 */
 
 .box {
   height: 400px;
   width: 23%;
   background-color: white;
   padding: 20px 0px 15px;
-  margin-top: 15px;
+  margin-top: -4px;
+  margin-bottom: 26px;
 }
 
 .box-img {
@@ -224,10 +226,43 @@ span {
 .box-content {
   margin-left: 1rem;
   margin-right: 1rem;
+  color: #0f1111;
+  font-size: 13px;;
 }
 
 .box-content p {
   color: #007185;
+}
+
+.box-content p:hover{
+  color: #c45500;
+}
+
+.slider-outer{
+  height: 300px;
+  width: 100%;
+  background-color: #e3e6e6;
+  margin-bottom: 30px;
+}
+
+.slider-inner{
+  height: 290px;
+  width: 97%;
+  background-color: white;
+  margin: 0 0 0 22px;
+}
+
+.slider-img{
+  height: 200px;
+  background-size: cover;
+  margin-top: 1rem;
+}
+
+.slider-content{
+  margin: 0 1rem 0 1rem;
+  padding-top: 1.5rem;
+  color: #0f1111;
+  font-size: 13px;
 }
 
 /* footer part starts here ---->>*/
