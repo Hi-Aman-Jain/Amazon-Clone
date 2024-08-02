@@ -20,7 +20,7 @@ This project is an Amazon Clone where I recreated the home page of Amazon.com to
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Amazon-Clone.git
+    git clone https://github.com/hi-aman-jain/Amazon-Clone.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -36,15 +36,18 @@ This project is an Amazon Clone where I recreated the home page of Amazon.com to
 
 ## Screenshots
 
-![Home Page](images/homepage.png)
-*Home Page*
+![Header Section](Images/header-section.png)
+*Header Section*
 
-![Product Section](images/product_section.png)
-*Product Section*
+![Shopping Section](Images/shopping.png)
+*Shopping Section*
+
+![Footer Section](Images/footer-section.png)
+*Footer Section*
 
 ## Demo
 
-Check out a live demo [here](https://your-live-demo-link.com).
+Check out a live demo [here](https://hi-aman-jain.github.io/Amazon-Clone/).
 
 ## Contributing
 
