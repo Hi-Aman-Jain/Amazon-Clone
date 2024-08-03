@@ -22,7 +22,7 @@
 }
 
 .logo {
-  background-image: url("/Images/amazon-logo.png");
+  background-image: url("./Images/amazon-logo.png");
   background-size: cover;
   height: 22px;
   width: 75px;
@@ -105,7 +105,7 @@
 }
 
 .flag {
-  background-image: url("/Images/us-flag.jpg");
+  background-image: url("./Images/us-flag.jpg");
   background-size: contain;
   width: 20px;
   height: 14.2px;
@@ -177,7 +177,7 @@ span {
 /* Hero section starts here ------>>*/
 
 .hero-section {
-  background-image: url("/Images/Hero_img.jpg");
+  background-image: url("./Images/Hero_img.jpg");
   background-size: cover;
   height: 320px;
   display: flex;
@@ -317,14 +317,14 @@ ul p {
 }
 
 .logo-last {
-  background-image: url("/Images/amazon-logo.png");
+  background-image: url("./Images/amazon-logo.png");
   background-size: cover;
   height: 22px;
   width: 75px;
 }
 
 .three-box {
-  background-image: url("/Images/three-box.png");
+  background-image: url("./Images/three-box.png");
   background-size: contain;
   background-repeat: no-repeat;
   width: 420px;
