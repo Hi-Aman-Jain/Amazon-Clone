@@ -1,6 +1,6 @@
-# Amazon Clone
+ # ![Amazon Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg)  CLONE
 
-![Amazon Clone](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Amazon Clone](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNyZmk5Nm0zOXE0bzZ5Y29paXg2dWdha2VmYWd0bzJ5NDhiYmQ5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zWyv9xtsEfXQQ/giphy.gif)
 
 ## Overview
 
@@ -71,4 +71,4 @@ Check out a live demo [here](https://hi-aman-jain.github.io/Amazon-Clone/).
 If you have any questions, feel free to reach out:
 
 - **Email:** : Hi.jainaman@gmail.com
-- **LinkedIn:** [Lets Connect](https://www.linkedin.com/in/aman-jain-btech-it24/)
+- **LinkedIn:** [Lets Connect 🔗](https://www.linkedin.com/in/aman-jain-btech-it24/)
